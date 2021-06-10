@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "UTF-8">
+<title>Rocket Pollution</title>
+<style>
+.white{
+   color: white;
+}
+</style>
+<center><h1 class = "white">Rocket Polution</h1></center>
+</head>
+
+
+
+
+
+<body>
+<img src="imagename.extension"></img>
+</body>
+
+
+
+
+
+
+</html>
